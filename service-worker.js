@@ -1,4 +1,4 @@
-var cacheName = 'murder-mystery';
+var cacheName = 'monster-hunter';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
